@@ -5,7 +5,7 @@ Caine Bot is a Discord bot for Vampire the Masquerade Tabletop. It is a program 
 This bot is a product of a big passion for coding and for roleplaying and the need (for our vampire campgin) to create a single bot that will make our campaign easier.
 
 
-[[Installtion Page]](https://github.com/nfanaropoulos/CaineBot/blob/main/Installation.md)
+[[Installation Page]](https://github.com/nfanaropoulos/CaineBot/blob/main/Installation.md)
       [[Bot Invitation Link]](https://discord.com/api/oauth2/authorize?client_id=934934267211956274&permissions=0&scope=bot%20applications.commands)
-      [[Installtion Page]](https://github.com/nfanaropoulos/CaineBot/blob/main/Installation.md)
+      [[Installation Page]](https://github.com/nfanaropoulos/CaineBot/blob/main/Installation.md)
       
