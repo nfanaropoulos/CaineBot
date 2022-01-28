@@ -55,6 +55,30 @@
 ** Note: This command is available only to Story Tellers.
 
 -----------------------------------------
+  * Show NPC
+-----------------------------------------
+```C#
+/Caine NPC Show <NPC Name> 
+```
+* NPC Name: This field is required and it's dynamically refresh the list of current available NPCs who are registered to the database.
+
+![Show NPC](https://i.ibb.co/qxk5vgn/download-1.png)
+
+** Note: Using this command will show to the players ONLY the NPCs which have been Published (see the command above). However the Story Teller can use this command to see the npcs who haven't been update yet in his private channel.
+
+-----------------------------------------
+  * Search NPC
+-----------------------------------------
+```C#
+/Caine NPC Search <Keyword> 
+```
+* Keyword: This field is required and it can be either a Clan, Location or Area of Influence.
+
+![Search NPC](https://i.ibb.co/F6rzgQ9/download-2.png)
+
+** Note: Using this command will show to the players ONLY the NPCs which have been Published (see the command above). However the Story Teller can use this command to see the npcs who haven't been update yet in his private channel.
+
+-----------------------------------------
   * ADD Note
 -----------------------------------------
 ```C#
@@ -65,5 +89,17 @@
 
 ![Add Note](https://i.ibb.co/FVSc129/download-11.png)
 ![Add Note](https://i.ibb.co/dkJz1nx/download-12.png)
+
+-----------------------------------------
+  * Edit Note
+-----------------------------------------
+```C#
+/Caine NPC Edit_Note <NPC Name> <Old_Note> <New_Note> 
+```
+* NPC Name: This field is required and it's dynamically refresh the list of current available NPCs who are registered to the database.
+* Old_Note: This field is required as well and it has to be copied and paste without the name of the player who made it. For example if the note on the NPC profile reads "Fabrizio: Test", you should copy the "Test" only!
+* Notes can be edited by the players who made them only. Of course the Story Teller can edit all notes.
+
+![Edit Note](https://i.ibb.co/KKBgxfq/download.png)
 
 Discord Bot for Vampire Tabletop RPG
