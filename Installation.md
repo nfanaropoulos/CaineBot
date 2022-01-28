@@ -3,9 +3,6 @@
 
 [[README Page]](https://github.com/nfanaropoulos/CaineBot/blob/main/README.md)
 
------------------------
-Caine Bot is a Discord bot for Vampire the Masquerade Tabletop. It is a program made by Nikos Fanaropoulos, a c# developer and Role Play gamer. You are free to invite the bot at your server and I hope you will enjoy it's functionality.
-
 # | Bot Installation
 
 -----------------------------------------
