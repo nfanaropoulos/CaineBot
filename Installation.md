@@ -9,7 +9,7 @@
   * Set up Story Teller and his channels
 -----------------------------------------
 ```C#
-!AddST <Mentioned User> <Link Channel 1> <Link Channel 2> <Link Channel 3> <Link Channel 4> <Link Channel 5> <Link Channel 6>
+!AddST <Mentioned User> <Link Channel 1> <Link Channel 2> <Link Channel 3> <Link Channel 4> <Link Channel 5> <Link Channel 6> <Campaign Name>
 ```
 * Channel 1: This is the hidden to players channel for the Story Teller where he can inspect and review NPC profiles
 * Channel 2: This is the public channel where Story Teller introduce NPCs to the players
