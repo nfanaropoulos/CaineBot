@@ -20,7 +20,7 @@
 
 **Note : A channel can be set up to be both hidden to players for dice rolls and for hidden to players Random Encounters checks
 
-![Setup Story Teller](https://i.ibb.co/tpr4k3R/download-2.png)
+![Setup Story Teller](https://prnt.sc/26t702g)
 
 -----------------------------------------
   * Set up Player and his channels
